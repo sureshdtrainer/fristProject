@@ -1,1 +1,3 @@
 I fixed a bug
+
+new changes from team member
